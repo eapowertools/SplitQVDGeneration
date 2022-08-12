@@ -5,7 +5,7 @@ A Qlik Cloud technique to split QVD generation into smaller, faster workloads
 # This archive contains 3 components
 1. Qlik App Automation Template
 2. Qlik Sense App Template for Split QVD Generation
-3. Qlik Sense App Template to determine Dimensions / QVDs 
+3. Qlik Sense App Template to determine the dimension values for the QVD splitting 
 
 # Steps to Setup
 
